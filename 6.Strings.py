@@ -7,3 +7,11 @@ print(dialogue)
 
 dialogue1 = " Who's this?"
 print(dialogue1)
+
+#writing multi line strings using 3 single quotes 
+
+dialogue2 = '''
+Hey there,
+I'm glad you're here
+This conversation might keep on going. See you soon.
+'''
