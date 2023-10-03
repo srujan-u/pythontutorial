@@ -1,9 +1,13 @@
-# This code is printing an expression.
-# '*' is considered as a string, and it's followed by multiplication operator followed by the number. The output of the code will be the the string in the paranthesis printed with the number you mention after it
-# In this case it's 5.
+#Variables are created and used directly by assigning values to them
+var = 10
+rating = 4.7
+name = 'Srujan'
+is_published = False
+print(var)
+print(rating)
+print(name)
+print(is_published)
+#printing variables doesn't need them to be included in quotes as they are not string
 #Variables should always contain small letters
-print('*' * 5)
-# Output - *****
+#Output - 10
 
-#Print a string with repeating it 10 times
-print('bla' * 10)
