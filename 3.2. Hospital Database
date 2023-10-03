@@ -1,0 +1,5 @@
+full_name = 'Kishan Ghetia'
+age = 24
+is_new = False
+
+print( full_name, age, is_new)
